@@ -2,6 +2,8 @@
 
 The app shows KPIs related to the retail dataset.
 
+Below is the project structure
+
 ```
 retail_dashboard/
   app.py
